@@ -1,6 +1,6 @@
-tstamp: 2014-06-20T05:15:19Z
-n_UCSB: 476577
-n_ORC: 476571
+tstamp: 2014-06-21T05:15:19Z
+n_UCSB: 476621
+n_ORC: 476615
 n_UNM: 475457
 PIDs in UCSB not in UNM:
   - 16500c50-af67-4137-904d-8dc379555841
@@ -254,6 +254,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.dh63p/4?ver=2014-06-17T14:34:27.805-04:00
   - http://dx.doi.org/10.5061/dryad.dh63p/5/bitstream
   - http://dx.doi.org/10.5061/dryad.dh63p/5?ver=2014-06-17T14:35:35.647-04:00
+  - http://dx.doi.org/10.5061/dryad.f3rk4/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.f3rk4/1?ver=2014-06-20T02:30:03.639-04:00
   - http://dx.doi.org/10.5061/dryad.f50h2/1/bitstream
   - http://dx.doi.org/10.5061/dryad.f50h2/1?ver=2014-06-18T14:43:58.787-04:00
   - http://dx.doi.org/10.5061/dryad.f50h2?format=d1rem&amp;ver=2014-06-18T14:43:55.363-04:00
@@ -323,6 +325,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.f727j?ver=2014-06-17T10:58:12.177-04:00
   - http://dx.doi.org/10.5061/dryad.fm146/2/bitstream
   - http://dx.doi.org/10.5061/dryad.fm146/2?ver=2014-06-19T09:46:45.308-04:00
+  - http://dx.doi.org/10.5061/dryad.j92fs?format=d1rem&amp;ver=2014-06-19T22:29:40.700-04:00
+  - http://dx.doi.org/10.5061/dryad.j92fs?ver=2014-06-19T22:29:40.700-04:00
   - http://dx.doi.org/10.5061/dryad.jm453/10/bitstream
   - http://dx.doi.org/10.5061/dryad.jm453/10?ver=2014-06-17T12:27:52.147-04:00
   - http://dx.doi.org/10.5061/dryad.jm453/11/bitstream
@@ -392,6 +396,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.jm453/9?ver=2014-06-17T12:27:49.063-04:00
   - http://dx.doi.org/10.5061/dryad.jm453?format=d1rem&amp;ver=2014-06-17T12:27:21.729-04:00
   - http://dx.doi.org/10.5061/dryad.jm453?ver=2014-06-17T12:27:21.729-04:00
+  - http://dx.doi.org/10.5061/dryad.k0080?format=d1rem&amp;ver=2014-06-19T22:43:58.466-04:00
+  - http://dx.doi.org/10.5061/dryad.k0080?ver=2014-06-19T22:43:58.466-04:00
   - http://dx.doi.org/10.5061/dryad.km728/1/bitstream
   - http://dx.doi.org/10.5061/dryad.km728/1?ver=2014-06-16T16:20:01.937-04:00
   - http://dx.doi.org/10.5061/dryad.km728?format=d1rem&amp;ver=2014-06-16T16:19:58.470-04:00
@@ -428,6 +434,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.mh742?ver=2014-06-16T12:16:58.844-04:00
   - http://dx.doi.org/10.5061/dryad.n4g25?format=d1rem&amp;ver=2014-06-17T12:37:11.876-04:00
   - http://dx.doi.org/10.5061/dryad.n4g25?ver=2014-06-17T12:37:11.876-04:00
+  - http://dx.doi.org/10.5061/dryad.n4k6p?format=d1rem&amp;ver=2014-06-19T22:54:13.202-04:00
+  - http://dx.doi.org/10.5061/dryad.n4k6p?ver=2014-06-19T22:54:13.202-04:00
   - http://dx.doi.org/10.5061/dryad.nk470/1/bitstream
   - http://dx.doi.org/10.5061/dryad.nk470/1?ver=2014-06-18T11:07:14.935-04:00
   - http://dx.doi.org/10.5061/dryad.nk470/2/bitstream
@@ -526,6 +534,10 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.vf210/1?ver=2014-06-16T15:11:49.100-04:00
   - http://dx.doi.org/10.5061/dryad.vf210?format=d1rem&amp;ver=2014-06-16T15:11:45.590-04:00
   - http://dx.doi.org/10.5061/dryad.vf210?ver=2014-06-16T15:11:45.590-04:00
+  - jkbalch.7.2
+  - jkbalch.8.2
+  - knb.457.1
+  - knb.458.1
   - knb-lter-arc.10005.7
   - knb-lter-arc.10006.7
   - knb-lter-arc.10007.7
@@ -669,6 +681,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.124.18
   - knb-lter-bnz.125.18
   - knb-lter-bnz.126.19
+  - knb-lter-bnz.126.20
   - knb-lter-bnz.127.19
   - knb-lter-bnz.129.18
   - knb-lter-bnz.131.18
@@ -683,6 +696,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.14.21
   - knb-lter-bnz.142.18
   - knb-lter-bnz.144.19
+  - knb-lter-bnz.144.20
   - knb-lter-bnz.145.18
   - knb-lter-bnz.146.18
   - knb-lter-bnz.147.19
@@ -727,14 +741,17 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.188.18
   - knb-lter-bnz.189.18
   - knb-lter-bnz.190.19
+  - knb-lter-bnz.190.20
   - knb-lter-bnz.191.21
   - knb-lter-bnz.192.19
+  - knb-lter-bnz.192.20
   - knb-lter-bnz.193.18
   - knb-lter-bnz.194.19
   - knb-lter-bnz.20.18
   - knb-lter-bnz.206.18
   - knb-lter-bnz.207.18
   - knb-lter-bnz.208.19
+  - knb-lter-bnz.208.20
   - knb-lter-bnz.209.18
   - knb-lter-bnz.210.18
   - knb-lter-bnz.211.19
@@ -752,7 +769,9 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.221.18
   - knb-lter-bnz.22.18
   - knb-lter-bnz.228.19
+  - knb-lter-bnz.228.20
   - knb-lter-bnz.229.19
+  - knb-lter-bnz.229.20
   - knb-lter-bnz.230.18
   - knb-lter-bnz.231.18
   - knb-lter-bnz.23.18
@@ -769,6 +788,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.24.19
   - knb-lter-bnz.25.19
   - knb-lter-bnz.26.19
+  - knb-lter-bnz.26.20
   - knb-lter-bnz.27.19
   - knb-lter-bnz.28.20
   - knb-lter-bnz.29.18
@@ -778,6 +798,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.303.18
   - knb-lter-bnz.304.18
   - knb-lter-bnz.309.19
+  - knb-lter-bnz.309.20
   - knb-lter-bnz.310.19
   - knb-lter-bnz.311.18
   - knb-lter-bnz.31.18
@@ -804,6 +825,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.330.18
   - knb-lter-bnz.331.18
   - knb-lter-bnz.33.19
+  - knb-lter-bnz.33.20
   - knb-lter-bnz.332.18
   - knb-lter-bnz.333.18
   - knb-lter-bnz.334.17
@@ -812,6 +834,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.337.17
   - knb-lter-bnz.339.18
   - knb-lter-bnz.341.17
+  - knb-lter-bnz.341.19
   - knb-lter-bnz.34.18
   - knb-lter-bnz.342.17
   - knb-lter-bnz.343.17
@@ -847,6 +870,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.371.16
   - knb-lter-bnz.37.18
   - knb-lter-bnz.372.17
+  - knb-lter-bnz.372.18
   - knb-lter-bnz.373.16
   - knb-lter-bnz.374.16
   - knb-lter-bnz.375.16
@@ -854,6 +878,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.377.16
   - knb-lter-bnz.378.16
   - knb-lter-bnz.379.17
+  - knb-lter-bnz.379.19
   - knb-lter-bnz.380.16
   - knb-lter-bnz.381.16
   - knb-lter-bnz.38.19
@@ -934,6 +959,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.451.15
   - knb-lter-bnz.45.19
   - knb-lter-bnz.452.14
+  - knb-lter-bnz.452.15
   - knb-lter-bnz.453.14
   - knb-lter-bnz.454.11
   - knb-lter-bnz.454.13
@@ -947,6 +973,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.46.19
   - knb-lter-bnz.462.12
   - knb-lter-bnz.463.12
+  - knb-lter-bnz.463.14
   - knb-lter-bnz.464.12
   - knb-lter-bnz.465.12
   - knb-lter-bnz.466.12
@@ -964,7 +991,9 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.477.12
   - knb-lter-bnz.478.12
   - knb-lter-bnz.479.13
+  - knb-lter-bnz.479.14
   - knb-lter-bnz.480.10
+  - knb-lter-bnz.480.11
   - knb-lter-bnz.481.9
   - knb-lter-bnz.482.9
   - knb-lter-bnz.483.9
@@ -981,6 +1010,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.493.10
   - knb-lter-bnz.494.10
   - knb-lter-bnz.495.9
+  - knb-lter-bnz.496.10
   - knb-lter-bnz.496.9
   - knb-lter-bnz.497.9
   - knb-lter-bnz.498.9
@@ -1006,15 +1036,18 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.517.7
   - knb-lter-bnz.518.7
   - knb-lter-bnz.519.7
+  - knb-lter-bnz.519.8
   - knb-lter-bnz.520.6
   - knb-lter-bnz.5.21
   - knb-lter-bnz.521.6
   - knb-lter-bnz.52.19
+  - knb-lter-bnz.52.20
   - knb-lter-bnz.522.6
   - knb-lter-bnz.523.5
   - knb-lter-bnz.524.5
   - knb-lter-bnz.525.6
   - knb-lter-bnz.526.6
+  - knb-lter-bnz.526.7
   - knb-lter-bnz.527.5
   - knb-lter-bnz.528.5
   - knb-lter-bnz.529.5
@@ -1024,11 +1057,17 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.532.4
   - knb-lter-bnz.533.4
   - knb-lter-bnz.534.3
+  - knb-lter-bnz.534.4
   - knb-lter-bnz.535.3
+  - knb-lter-bnz.535.4
   - knb-lter-bnz.536.3
+  - knb-lter-bnz.536.4
   - knb-lter-bnz.537.3
+  - knb-lter-bnz.537.4
   - knb-lter-bnz.538.3
+  - knb-lter-bnz.538.4
   - knb-lter-bnz.539.5
+  - knb-lter-bnz.539.7
   - knb-lter-bnz.54.18
   - knb-lter-bnz.542.3
   - knb-lter-bnz.543.3
@@ -1057,9 +1096,12 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.564.4
   - knb-lter-bnz.565.4
   - knb-lter-bnz.566.3
+  - knb-lter-bnz.566.5
   - knb-lter-bnz.567.3
+  - knb-lter-bnz.567.5
   - knb-lter-bnz.568.3
   - knb-lter-bnz.570.2
+  - knb-lter-bnz.570.3
   - knb-lter-bnz.571.2
   - knb-lter-bnz.57.19
   - knb-lter-bnz.572.3
@@ -1122,6 +1164,8 @@ PIDs in UCSB not in UNM:
   - lusteve.95.4
   - lusteve.98.1
   - lusteve.99.1
+  - resourceMap_jkbalch.8.2
+  - resourceMap_knb.458.1
   - resourceMap_lusteve.95.4
 #
 PIDs in UNM not in UCSB:
@@ -1376,6 +1420,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.dh63p/4?ver=2014-06-17T14:34:27.805-04:00
   - http://dx.doi.org/10.5061/dryad.dh63p/5/bitstream
   - http://dx.doi.org/10.5061/dryad.dh63p/5?ver=2014-06-17T14:35:35.647-04:00
+  - http://dx.doi.org/10.5061/dryad.f3rk4/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.f3rk4/1?ver=2014-06-20T02:30:03.639-04:00
   - http://dx.doi.org/10.5061/dryad.f50h2/1/bitstream
   - http://dx.doi.org/10.5061/dryad.f50h2/1?ver=2014-06-18T14:43:58.787-04:00
   - http://dx.doi.org/10.5061/dryad.f50h2?format=d1rem&amp;ver=2014-06-18T14:43:55.363-04:00
@@ -1445,6 +1491,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.f727j?ver=2014-06-17T10:58:12.177-04:00
   - http://dx.doi.org/10.5061/dryad.fm146/2/bitstream
   - http://dx.doi.org/10.5061/dryad.fm146/2?ver=2014-06-19T09:46:45.308-04:00
+  - http://dx.doi.org/10.5061/dryad.j92fs?format=d1rem&amp;ver=2014-06-19T22:29:40.700-04:00
+  - http://dx.doi.org/10.5061/dryad.j92fs?ver=2014-06-19T22:29:40.700-04:00
   - http://dx.doi.org/10.5061/dryad.jm453/10/bitstream
   - http://dx.doi.org/10.5061/dryad.jm453/10?ver=2014-06-17T12:27:52.147-04:00
   - http://dx.doi.org/10.5061/dryad.jm453/11/bitstream
@@ -1514,6 +1562,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.jm453/9?ver=2014-06-17T12:27:49.063-04:00
   - http://dx.doi.org/10.5061/dryad.jm453?format=d1rem&amp;ver=2014-06-17T12:27:21.729-04:00
   - http://dx.doi.org/10.5061/dryad.jm453?ver=2014-06-17T12:27:21.729-04:00
+  - http://dx.doi.org/10.5061/dryad.k0080?format=d1rem&amp;ver=2014-06-19T22:43:58.466-04:00
+  - http://dx.doi.org/10.5061/dryad.k0080?ver=2014-06-19T22:43:58.466-04:00
   - http://dx.doi.org/10.5061/dryad.km728/1/bitstream
   - http://dx.doi.org/10.5061/dryad.km728/1?ver=2014-06-16T16:20:01.937-04:00
   - http://dx.doi.org/10.5061/dryad.km728?format=d1rem&amp;ver=2014-06-16T16:19:58.470-04:00
@@ -1550,6 +1600,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.mh742?ver=2014-06-16T12:16:58.844-04:00
   - http://dx.doi.org/10.5061/dryad.n4g25?format=d1rem&amp;ver=2014-06-17T12:37:11.876-04:00
   - http://dx.doi.org/10.5061/dryad.n4g25?ver=2014-06-17T12:37:11.876-04:00
+  - http://dx.doi.org/10.5061/dryad.n4k6p?format=d1rem&amp;ver=2014-06-19T22:54:13.202-04:00
+  - http://dx.doi.org/10.5061/dryad.n4k6p?ver=2014-06-19T22:54:13.202-04:00
   - http://dx.doi.org/10.5061/dryad.nk470/1/bitstream
   - http://dx.doi.org/10.5061/dryad.nk470/1?ver=2014-06-18T11:07:14.935-04:00
   - http://dx.doi.org/10.5061/dryad.nk470/2/bitstream
@@ -1648,6 +1700,10 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.vf210/1?ver=2014-06-16T15:11:49.100-04:00
   - http://dx.doi.org/10.5061/dryad.vf210?format=d1rem&amp;ver=2014-06-16T15:11:45.590-04:00
   - http://dx.doi.org/10.5061/dryad.vf210?ver=2014-06-16T15:11:45.590-04:00
+  - jkbalch.7.2
+  - jkbalch.8.2
+  - knb.457.1
+  - knb.458.1
   - knb-lter-arc.10005.7
   - knb-lter-arc.10006.7
   - knb-lter-arc.10007.7
@@ -1791,6 +1847,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.124.18
   - knb-lter-bnz.125.18
   - knb-lter-bnz.126.19
+  - knb-lter-bnz.126.20
   - knb-lter-bnz.127.19
   - knb-lter-bnz.129.18
   - knb-lter-bnz.131.18
@@ -1805,6 +1862,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.14.21
   - knb-lter-bnz.142.18
   - knb-lter-bnz.144.19
+  - knb-lter-bnz.144.20
   - knb-lter-bnz.145.18
   - knb-lter-bnz.146.18
   - knb-lter-bnz.147.19
@@ -1849,14 +1907,17 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.188.18
   - knb-lter-bnz.189.18
   - knb-lter-bnz.190.19
+  - knb-lter-bnz.190.20
   - knb-lter-bnz.191.21
   - knb-lter-bnz.192.19
+  - knb-lter-bnz.192.20
   - knb-lter-bnz.193.18
   - knb-lter-bnz.194.19
   - knb-lter-bnz.20.18
   - knb-lter-bnz.206.18
   - knb-lter-bnz.207.18
   - knb-lter-bnz.208.19
+  - knb-lter-bnz.208.20
   - knb-lter-bnz.209.18
   - knb-lter-bnz.210.18
   - knb-lter-bnz.211.19
@@ -1874,7 +1935,9 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.221.18
   - knb-lter-bnz.22.18
   - knb-lter-bnz.228.19
+  - knb-lter-bnz.228.20
   - knb-lter-bnz.229.19
+  - knb-lter-bnz.229.20
   - knb-lter-bnz.230.18
   - knb-lter-bnz.231.18
   - knb-lter-bnz.23.18
@@ -1891,6 +1954,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.24.19
   - knb-lter-bnz.25.19
   - knb-lter-bnz.26.19
+  - knb-lter-bnz.26.20
   - knb-lter-bnz.27.19
   - knb-lter-bnz.28.20
   - knb-lter-bnz.29.18
@@ -1900,6 +1964,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.303.18
   - knb-lter-bnz.304.18
   - knb-lter-bnz.309.19
+  - knb-lter-bnz.309.20
   - knb-lter-bnz.310.19
   - knb-lter-bnz.311.18
   - knb-lter-bnz.31.18
@@ -1926,6 +1991,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.330.18
   - knb-lter-bnz.331.18
   - knb-lter-bnz.33.19
+  - knb-lter-bnz.33.20
   - knb-lter-bnz.332.18
   - knb-lter-bnz.333.18
   - knb-lter-bnz.334.17
@@ -1934,6 +2000,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.337.17
   - knb-lter-bnz.339.18
   - knb-lter-bnz.341.17
+  - knb-lter-bnz.341.19
   - knb-lter-bnz.34.18
   - knb-lter-bnz.342.17
   - knb-lter-bnz.343.17
@@ -1969,6 +2036,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.371.16
   - knb-lter-bnz.37.18
   - knb-lter-bnz.372.17
+  - knb-lter-bnz.372.18
   - knb-lter-bnz.373.16
   - knb-lter-bnz.374.16
   - knb-lter-bnz.375.16
@@ -1976,6 +2044,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.377.16
   - knb-lter-bnz.378.16
   - knb-lter-bnz.379.17
+  - knb-lter-bnz.379.19
   - knb-lter-bnz.380.16
   - knb-lter-bnz.381.16
   - knb-lter-bnz.38.19
@@ -2056,6 +2125,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.451.15
   - knb-lter-bnz.45.19
   - knb-lter-bnz.452.14
+  - knb-lter-bnz.452.15
   - knb-lter-bnz.453.14
   - knb-lter-bnz.454.11
   - knb-lter-bnz.454.13
@@ -2069,6 +2139,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.46.19
   - knb-lter-bnz.462.12
   - knb-lter-bnz.463.12
+  - knb-lter-bnz.463.14
   - knb-lter-bnz.464.12
   - knb-lter-bnz.465.12
   - knb-lter-bnz.466.12
@@ -2086,7 +2157,9 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.477.12
   - knb-lter-bnz.478.12
   - knb-lter-bnz.479.13
+  - knb-lter-bnz.479.14
   - knb-lter-bnz.480.10
+  - knb-lter-bnz.480.11
   - knb-lter-bnz.481.9
   - knb-lter-bnz.482.9
   - knb-lter-bnz.483.9
@@ -2103,6 +2176,7 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.493.10
   - knb-lter-bnz.494.10
   - knb-lter-bnz.495.9
+  - knb-lter-bnz.496.10
   - knb-lter-bnz.496.9
   - knb-lter-bnz.497.9
   - knb-lter-bnz.498.9
@@ -2128,15 +2202,18 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.517.7
   - knb-lter-bnz.518.7
   - knb-lter-bnz.519.7
+  - knb-lter-bnz.519.8
   - knb-lter-bnz.520.6
   - knb-lter-bnz.5.21
   - knb-lter-bnz.521.6
   - knb-lter-bnz.52.19
+  - knb-lter-bnz.52.20
   - knb-lter-bnz.522.6
   - knb-lter-bnz.523.5
   - knb-lter-bnz.524.5
   - knb-lter-bnz.525.6
   - knb-lter-bnz.526.6
+  - knb-lter-bnz.526.7
   - knb-lter-bnz.527.5
   - knb-lter-bnz.528.5
   - knb-lter-bnz.529.5
@@ -2146,11 +2223,17 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.532.4
   - knb-lter-bnz.533.4
   - knb-lter-bnz.534.3
+  - knb-lter-bnz.534.4
   - knb-lter-bnz.535.3
+  - knb-lter-bnz.535.4
   - knb-lter-bnz.536.3
+  - knb-lter-bnz.536.4
   - knb-lter-bnz.537.3
+  - knb-lter-bnz.537.4
   - knb-lter-bnz.538.3
+  - knb-lter-bnz.538.4
   - knb-lter-bnz.539.5
+  - knb-lter-bnz.539.7
   - knb-lter-bnz.54.18
   - knb-lter-bnz.542.3
   - knb-lter-bnz.543.3
@@ -2179,9 +2262,12 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.564.4
   - knb-lter-bnz.565.4
   - knb-lter-bnz.566.3
+  - knb-lter-bnz.566.5
   - knb-lter-bnz.567.3
+  - knb-lter-bnz.567.5
   - knb-lter-bnz.568.3
   - knb-lter-bnz.570.2
+  - knb-lter-bnz.570.3
   - knb-lter-bnz.571.2
   - knb-lter-bnz.57.19
   - knb-lter-bnz.572.3
@@ -2244,6 +2330,8 @@ PIDs in ORC not in UNM:
   - lusteve.95.4
   - lusteve.98.1
   - lusteve.99.1
+  - resourceMap_jkbalch.8.2
+  - resourceMap_knb.458.1
   - resourceMap_lusteve.95.4
 #
 PIDs in UNM not in ORC:
