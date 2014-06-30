@@ -1,6 +1,6 @@
-tstamp: 2014-06-29T05:15:23Z
-n_UCSB: 477376
-n_ORC: 477370
+tstamp: 2014-06-30T05:15:23Z
+n_UCSB: 477384
+n_ORC: 477378
 n_UNM: 475457
 PIDs in UCSB not in UNM:
   - 16500c50-af67-4137-904d-8dc379555841
@@ -37,6 +37,9 @@ PIDs in UCSB not in UNM:
   - dieter_lukas.13.1
   - dieter_lukas.13.3
   - dieter_lukas.14.1
+  - dieter_lukas.15.1
+  - dieter_lukas.16.1
+  - dieter_lukas.17.1
   - dieter_lukas.3.1
   - dieter_lukas.4.4
   - dieter_lukas.4.5
@@ -44,6 +47,8 @@ PIDs in UCSB not in UNM:
   - dieter_lukas.7.1
   - dieter_lukas.8.1
   - dieter_lukas.9.1
+  - doi:10.5063/F1FT8HZJ
+  - doi:10.5063/F1KK98P8
   - doi:10.5063/F1QC01DJ
   - doi:10.5063/F1V40S4W
   - doi:10.5063/F1ZW1HVW
@@ -1914,14 +1919,17 @@ PIDs in UCSB not in UNM:
   - lusteve.99.1
   - resourceMap_dieter_lukas.12.1
   - resourceMap_dieter_lukas.13.3
+  - resourceMap_dieter_lukas.17.1
   - resourceMap_dieter_lukas.4.4
   - resourceMap_dieter_lukas.4.5
   - resourceMap_jkbalch.8.2
   - resourceMap_knb.458.1
   - resourceMap_lusteve.95.4
   - scimeta_1226.xml
+  - urn:uuid:05712a55-f476-4153-9012-3abace5f243e
   - urn:uuid:174ad653-2453-45bd-95d2-6f6ce127b2ab
   - urn:uuid:3e144f95-6f36-41d2-96dd-d181c11dc174
+  - urn:uuid:fd833baf-b134-47f3-9031-50206fbeff74
 #
 PIDs in UNM not in UCSB:
 #
@@ -1958,6 +1966,9 @@ PIDs in ORC not in UNM:
   - dieter_lukas.13.1
   - dieter_lukas.13.3
   - dieter_lukas.14.1
+  - dieter_lukas.15.1
+  - dieter_lukas.16.1
+  - dieter_lukas.17.1
   - dieter_lukas.3.1
   - dieter_lukas.4.4
   - dieter_lukas.4.5
@@ -1965,6 +1976,8 @@ PIDs in ORC not in UNM:
   - dieter_lukas.7.1
   - dieter_lukas.8.1
   - dieter_lukas.9.1
+  - doi:10.5063/F1FT8HZJ
+  - doi:10.5063/F1KK98P8
   - doi:10.5063/F1QC01DJ
   - doi:10.5063/F1V40S4W
   - doi:10.5063/F1ZW1HVW
@@ -3835,14 +3848,17 @@ PIDs in ORC not in UNM:
   - lusteve.99.1
   - resourceMap_dieter_lukas.12.1
   - resourceMap_dieter_lukas.13.3
+  - resourceMap_dieter_lukas.17.1
   - resourceMap_dieter_lukas.4.4
   - resourceMap_dieter_lukas.4.5
   - resourceMap_jkbalch.8.2
   - resourceMap_knb.458.1
   - resourceMap_lusteve.95.4
   - scimeta_1226.xml
+  - urn:uuid:05712a55-f476-4153-9012-3abace5f243e
   - urn:uuid:174ad653-2453-45bd-95d2-6f6ce127b2ab
   - urn:uuid:3e144f95-6f36-41d2-96dd-d181c11dc174
+  - urn:uuid:fd833baf-b134-47f3-9031-50206fbeff74
 #
 PIDs in UNM not in ORC:
   - df35b.200.2
