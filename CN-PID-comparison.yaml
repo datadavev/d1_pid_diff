@@ -1,6 +1,6 @@
-tstamp: 2014-07-02T05:15:19Z
-n_UCSB: 477517
-n_ORC: 477511
+tstamp: 2014-07-03T05:15:17Z
+n_UCSB: 477576
+n_ORC: 477570
 n_UNM: 475457
 PIDs in UCSB not in UNM:
   - 16500c50-af67-4137-904d-8dc379555841
@@ -61,6 +61,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.00317/1?ver=2014-06-23T15:30:24.264-04:00
   - http://dx.doi.org/10.5061/dryad.00317?format=d1rem&amp;ver=2014-06-23T15:30:24.306-04:00
   - http://dx.doi.org/10.5061/dryad.00317?ver=2014-06-23T15:30:24.306-04:00
+  - http://dx.doi.org/10.5061/dryad.06hn6?format=d1rem&amp;ver=2014-07-02T11:09:28.135-04:00
+  - http://dx.doi.org/10.5061/dryad.06hn6?ver=2014-07-02T11:09:28.135-04:00
   - http://dx.doi.org/10.5061/dryad.11243/1/bitstream
   - http://dx.doi.org/10.5061/dryad.11243/1?ver=2014-07-01T10:42:44.455-04:00
   - http://dx.doi.org/10.5061/dryad.11243/2/bitstream
@@ -264,6 +266,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.4kt16?ver=2014-07-01T10:09:10.500-04:00
   - http://dx.doi.org/10.5061/dryad.4v514/1/bitstream
   - http://dx.doi.org/10.5061/dryad.4v514/1?ver=2014-06-17T13:12:10.640-04:00
+  - http://dx.doi.org/10.5061/dryad.51248?format=d1rem&amp;ver=2014-07-02T12:07:58.828-04:00
+  - http://dx.doi.org/10.5061/dryad.51248?ver=2014-07-02T12:07:58.828-04:00
   - http://dx.doi.org/10.5061/dryad.5255n/1/bitstream
   - http://dx.doi.org/10.5061/dryad.5255n/2/bitstream
   - http://dx.doi.org/10.5061/dryad.5255n/3/bitstream
@@ -411,6 +415,10 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.8364h?ver=2014-06-17T11:14:38.471-04:00
   - http://dx.doi.org/10.5061/dryad.83fs0/1/bitstream
   - http://dx.doi.org/10.5061/dryad.83fs0/1?ver=2014-06-23T15:33:40.478-04:00
+  - http://dx.doi.org/10.5061/dryad.83rv1/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.83rv1/1?ver=2014-07-02T13:27:13.967-04:00
+  - http://dx.doi.org/10.5061/dryad.84mf4/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.84mf4/1?ver=2014-07-02T13:41:25.501-04:00
   - http://dx.doi.org/10.5061/dryad.862h5/1/bitstream
   - http://dx.doi.org/10.5061/dryad.862h5/1?ver=2014-06-26T13:59:43.283-04:00
   - http://dx.doi.org/10.5061/dryad.8db34/1/bitstream
@@ -425,6 +433,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.8h6nf/1?ver=2014-06-17T10:37:00.240-04:00
   - http://dx.doi.org/10.5061/dryad.8h6nf?format=d1rem&amp;ver=2014-06-17T10:36:57.238-04:00
   - http://dx.doi.org/10.5061/dryad.8h6nf?ver=2014-06-17T10:36:57.238-04:00
+  - http://dx.doi.org/10.5061/dryad.8hv52?format=d1rem&amp;ver=2014-07-02T11:33:48.170-04:00
+  - http://dx.doi.org/10.5061/dryad.8hv52?ver=2014-07-02T11:33:48.170-04:00
   - http://dx.doi.org/10.5061/dryad.8mc3s?format=d1rem&amp;ver=2014-07-01T16:46:46.133-04:00
   - http://dx.doi.org/10.5061/dryad.8mc3s?ver=2014-07-01T16:46:46.133-04:00
   - http://dx.doi.org/10.5061/dryad.95p52/1/bitstream
@@ -486,6 +496,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.98pt3/9?ver=2014-06-24T11:54:12.110-04:00
   - http://dx.doi.org/10.5061/dryad.98pt3?format=d1rem&amp;ver=2014-06-24T11:53:42.701-04:00
   - http://dx.doi.org/10.5061/dryad.98pt3?ver=2014-06-24T11:53:42.701-04:00
+  - http://dx.doi.org/10.5061/dryad.9m59b/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.9m59b/1?ver=2014-07-02T02:30:04.603-04:00
   - http://dx.doi.org/10.5061/dryad.b5d6b/1/bitstream
   - http://dx.doi.org/10.5061/dryad.b5d6b/1?ver=2014-06-24T15:02:28.596-04:00
   - http://dx.doi.org/10.5061/dryad.b5d6b/2/bitstream
@@ -539,6 +551,10 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.c1q38?ver=2014-06-19T12:41:29.563-04:00
   - http://dx.doi.org/10.5061/dryad.c2n18/1/bitstream
   - http://dx.doi.org/10.5061/dryad.c2n18/1?ver=2014-06-24T15:17:07.991-04:00
+  - http://dx.doi.org/10.5061/dryad.c2vm2/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.c2vm2/1?ver=2014-07-02T13:53:27.292-04:00
+  - http://dx.doi.org/10.5061/dryad.c2vm2/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.c2vm2/2?ver=2014-07-02T13:54:41.717-04:00
   - http://dx.doi.org/10.5061/dryad.c3p08/1/bitstream
   - http://dx.doi.org/10.5061/dryad.c3p08/1?ver=2014-06-19T02:30:04.980-04:00
   - http://dx.doi.org/10.5061/dryad.c521p/1/bitstream
@@ -700,6 +716,20 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.f727j/8?ver=2014-06-18T14:09:11.718-04:00
   - http://dx.doi.org/10.5061/dryad.f727j?format=d1rem&amp;ver=2014-06-17T10:58:12.177-04:00
   - http://dx.doi.org/10.5061/dryad.f727j?ver=2014-06-17T10:58:12.177-04:00
+  - http://dx.doi.org/10.5061/dryad.f80bh/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.f80bh/1?ver=2014-07-02T14:36:44.868-04:00
+  - http://dx.doi.org/10.5061/dryad.f80bh/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.f80bh/2?ver=2014-07-02T14:37:32.941-04:00
+  - http://dx.doi.org/10.5061/dryad.f80bh/3/bitstream
+  - http://dx.doi.org/10.5061/dryad.f80bh/3?ver=2014-07-02T14:38:15.131-04:00
+  - http://dx.doi.org/10.5061/dryad.f8539/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.f8539/1?ver=2014-07-02T12:25:29.652-04:00
+  - http://dx.doi.org/10.5061/dryad.f8539/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.f8539/2?ver=2014-07-02T12:27:27.986-04:00
+  - http://dx.doi.org/10.5061/dryad.f8539/3/bitstream
+  - http://dx.doi.org/10.5061/dryad.f8539/3?ver=2014-07-02T12:28:17.513-04:00
+  - http://dx.doi.org/10.5061/dryad.f8539/4/bitstream
+  - http://dx.doi.org/10.5061/dryad.f8539/4?ver=2014-07-02T12:29:07.681-04:00
   - http://dx.doi.org/10.5061/dryad.ff71n/3/bitstream
   - http://dx.doi.org/10.5061/dryad.ff71n/3?ver=2014-06-24T16:13:16.031-04:00
   - http://dx.doi.org/10.5061/dryad.ff71n/4/bitstream
@@ -883,6 +913,10 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.jn800/1?ver=2014-06-23T10:48:52.853-04:00
   - http://dx.doi.org/10.5061/dryad.jn800?format=d1rem&amp;ver=2014-06-23T10:48:49.869-04:00
   - http://dx.doi.org/10.5061/dryad.jn800?ver=2014-06-23T10:48:49.869-04:00
+  - http://dx.doi.org/10.5061/dryad.k0080/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.k0080/1?ver=2014-07-02T13:45:49.195-04:00
+  - http://dx.doi.org/10.5061/dryad.k0080/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.k0080/2?ver=2014-07-02T13:46:40.827-04:00
   - http://dx.doi.org/10.5061/dryad.k0080?format=d1rem&amp;ver=2014-06-19T22:43:58.466-04:00
   - http://dx.doi.org/10.5061/dryad.k0080?ver=2014-06-19T22:43:58.466-04:00
   - http://dx.doi.org/10.5061/dryad.k77nh/3/bitstream
@@ -994,6 +1028,12 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.ns624?ver=2014-06-30T14:20:17.617-04:00
   - http://dx.doi.org/10.5061/dryad.nt13m?format=d1rem&amp;ver=2014-06-24T10:57:26.434-04:00
   - http://dx.doi.org/10.5061/dryad.nt13m?ver=2014-06-24T10:57:26.434-04:00
+  - http://dx.doi.org/10.5061/dryad.p63jh/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.p63jh/1?ver=2014-07-02T12:40:18.997-04:00
+  - http://dx.doi.org/10.5061/dryad.p63jh/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.p63jh/2?ver=2014-07-02T12:40:58.901-04:00
+  - http://dx.doi.org/10.5061/dryad.p63jh/3/bitstream
+  - http://dx.doi.org/10.5061/dryad.p63jh/3?ver=2014-07-02T12:41:39.206-04:00
   - http://dx.doi.org/10.5061/dryad.p7d7c/1/bitstream
   - http://dx.doi.org/10.5061/dryad.p7d7c/1?ver=2014-07-01T13:22:54.154-04:00
   - http://dx.doi.org/10.5061/dryad.p7d7c?format=d1rem&amp;ver=2014-07-01T13:22:50.510-04:00
@@ -1135,6 +1175,8 @@ PIDs in UCSB not in UNM:
   - http://dx.doi.org/10.5061/dryad.s0d20/1?ver=2014-06-17T13:19:04.132-04:00
   - http://dx.doi.org/10.5061/dryad.s0d20?format=d1rem&amp;ver=2014-06-17T13:19:00.623-04:00
   - http://dx.doi.org/10.5061/dryad.s0d20?ver=2014-06-17T13:19:00.623-04:00
+  - http://dx.doi.org/10.5061/dryad.s3720/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.s3720/1?ver=2014-07-02T14:05:07.986-04:00
   - http://dx.doi.org/10.5061/dryad.s584c/1/bitstream
   - http://dx.doi.org/10.5061/dryad.s584c/1?ver=2014-06-25T14:38:06.093-04:00
   - http://dx.doi.org/10.5061/dryad.s584c/2/bitstream
@@ -1877,7 +1919,19 @@ PIDs in UCSB not in UNM:
   - knb-lter-bnz.97.19
   - knb-lter-bnz.98.19
   - knb-lter-bnz.99.19
+  - knb-lter-fce.1050.10
+  - knb-lter-fce.1051.10
+  - knb-lter-fce.1052.8
+  - knb-lter-fce.1053.8
+  - knb-lter-fce.1055.5
+  - knb-lter-fce.1069.6
+  - knb-lter-fce.1072.6
+  - knb-lter-fce.1073.6
+  - knb-lter-fce.1107.4
+  - knb-lter-fce.1110.5
+  - knb-lter-fce.1111.4
   - knb-lter-fce.1127.3
+  - knb-lter-fce.1134.4
   - knb-lter-fce.1191.1
   - knb-lter-gce.100.31
   - knb-lter-gce.101.42
@@ -2035,14 +2089,19 @@ PIDs in UCSB not in UNM:
   - knb-lter-hfr.41.17
   - knb-lter-hfr.45.21
   - knb-lter-hfr.91.13
+  - knb-lter-mcr.5009.1
   - knb-lter-pie.232.2
   - knb-lter-pie.344.3
   - knb-lter-pie.345.2
   - knb-lter-pie.93.5
+  - knb-lter-vcr.117.15
+  - knb-lter-vcr.118.15
   - knb-lter-vcr.174.17
   - knb-lter-vcr.206.13
   - knb-lter-vcr.25.30
+  - knb-lter-vcr.60.17
   - knb-lter-vcr.61.22
+  - knb-lter-vcr.68.15
   - knb-lter-vcr.71.21
   - lusteve.95.4
   - lusteve.98.1
@@ -2123,6 +2182,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.00317/1?ver=2014-06-23T15:30:24.264-04:00
   - http://dx.doi.org/10.5061/dryad.00317?format=d1rem&amp;ver=2014-06-23T15:30:24.306-04:00
   - http://dx.doi.org/10.5061/dryad.00317?ver=2014-06-23T15:30:24.306-04:00
+  - http://dx.doi.org/10.5061/dryad.06hn6?format=d1rem&amp;ver=2014-07-02T11:09:28.135-04:00
+  - http://dx.doi.org/10.5061/dryad.06hn6?ver=2014-07-02T11:09:28.135-04:00
   - http://dx.doi.org/10.5061/dryad.11243/1/bitstream
   - http://dx.doi.org/10.5061/dryad.11243/1?ver=2014-07-01T10:42:44.455-04:00
   - http://dx.doi.org/10.5061/dryad.11243/2/bitstream
@@ -2326,6 +2387,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.4kt16?ver=2014-07-01T10:09:10.500-04:00
   - http://dx.doi.org/10.5061/dryad.4v514/1/bitstream
   - http://dx.doi.org/10.5061/dryad.4v514/1?ver=2014-06-17T13:12:10.640-04:00
+  - http://dx.doi.org/10.5061/dryad.51248?format=d1rem&amp;ver=2014-07-02T12:07:58.828-04:00
+  - http://dx.doi.org/10.5061/dryad.51248?ver=2014-07-02T12:07:58.828-04:00
   - http://dx.doi.org/10.5061/dryad.5255n/1/bitstream
   - http://dx.doi.org/10.5061/dryad.5255n/2/bitstream
   - http://dx.doi.org/10.5061/dryad.5255n/3/bitstream
@@ -2473,6 +2536,10 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.8364h?ver=2014-06-17T11:14:38.471-04:00
   - http://dx.doi.org/10.5061/dryad.83fs0/1/bitstream
   - http://dx.doi.org/10.5061/dryad.83fs0/1?ver=2014-06-23T15:33:40.478-04:00
+  - http://dx.doi.org/10.5061/dryad.83rv1/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.83rv1/1?ver=2014-07-02T13:27:13.967-04:00
+  - http://dx.doi.org/10.5061/dryad.84mf4/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.84mf4/1?ver=2014-07-02T13:41:25.501-04:00
   - http://dx.doi.org/10.5061/dryad.862h5/1/bitstream
   - http://dx.doi.org/10.5061/dryad.862h5/1?ver=2014-06-26T13:59:43.283-04:00
   - http://dx.doi.org/10.5061/dryad.8db34/1/bitstream
@@ -2487,6 +2554,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.8h6nf/1?ver=2014-06-17T10:37:00.240-04:00
   - http://dx.doi.org/10.5061/dryad.8h6nf?format=d1rem&amp;ver=2014-06-17T10:36:57.238-04:00
   - http://dx.doi.org/10.5061/dryad.8h6nf?ver=2014-06-17T10:36:57.238-04:00
+  - http://dx.doi.org/10.5061/dryad.8hv52?format=d1rem&amp;ver=2014-07-02T11:33:48.170-04:00
+  - http://dx.doi.org/10.5061/dryad.8hv52?ver=2014-07-02T11:33:48.170-04:00
   - http://dx.doi.org/10.5061/dryad.8mc3s?format=d1rem&amp;ver=2014-07-01T16:46:46.133-04:00
   - http://dx.doi.org/10.5061/dryad.8mc3s?ver=2014-07-01T16:46:46.133-04:00
   - http://dx.doi.org/10.5061/dryad.95p52/1/bitstream
@@ -2548,6 +2617,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.98pt3/9?ver=2014-06-24T11:54:12.110-04:00
   - http://dx.doi.org/10.5061/dryad.98pt3?format=d1rem&amp;ver=2014-06-24T11:53:42.701-04:00
   - http://dx.doi.org/10.5061/dryad.98pt3?ver=2014-06-24T11:53:42.701-04:00
+  - http://dx.doi.org/10.5061/dryad.9m59b/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.9m59b/1?ver=2014-07-02T02:30:04.603-04:00
   - http://dx.doi.org/10.5061/dryad.b5d6b/1/bitstream
   - http://dx.doi.org/10.5061/dryad.b5d6b/1?ver=2014-06-24T15:02:28.596-04:00
   - http://dx.doi.org/10.5061/dryad.b5d6b/2/bitstream
@@ -2601,6 +2672,10 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.c1q38?ver=2014-06-19T12:41:29.563-04:00
   - http://dx.doi.org/10.5061/dryad.c2n18/1/bitstream
   - http://dx.doi.org/10.5061/dryad.c2n18/1?ver=2014-06-24T15:17:07.991-04:00
+  - http://dx.doi.org/10.5061/dryad.c2vm2/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.c2vm2/1?ver=2014-07-02T13:53:27.292-04:00
+  - http://dx.doi.org/10.5061/dryad.c2vm2/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.c2vm2/2?ver=2014-07-02T13:54:41.717-04:00
   - http://dx.doi.org/10.5061/dryad.c3p08/1/bitstream
   - http://dx.doi.org/10.5061/dryad.c3p08/1?ver=2014-06-19T02:30:04.980-04:00
   - http://dx.doi.org/10.5061/dryad.c521p/1/bitstream
@@ -2762,6 +2837,20 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.f727j/8?ver=2014-06-18T14:09:11.718-04:00
   - http://dx.doi.org/10.5061/dryad.f727j?format=d1rem&amp;ver=2014-06-17T10:58:12.177-04:00
   - http://dx.doi.org/10.5061/dryad.f727j?ver=2014-06-17T10:58:12.177-04:00
+  - http://dx.doi.org/10.5061/dryad.f80bh/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.f80bh/1?ver=2014-07-02T14:36:44.868-04:00
+  - http://dx.doi.org/10.5061/dryad.f80bh/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.f80bh/2?ver=2014-07-02T14:37:32.941-04:00
+  - http://dx.doi.org/10.5061/dryad.f80bh/3/bitstream
+  - http://dx.doi.org/10.5061/dryad.f80bh/3?ver=2014-07-02T14:38:15.131-04:00
+  - http://dx.doi.org/10.5061/dryad.f8539/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.f8539/1?ver=2014-07-02T12:25:29.652-04:00
+  - http://dx.doi.org/10.5061/dryad.f8539/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.f8539/2?ver=2014-07-02T12:27:27.986-04:00
+  - http://dx.doi.org/10.5061/dryad.f8539/3/bitstream
+  - http://dx.doi.org/10.5061/dryad.f8539/3?ver=2014-07-02T12:28:17.513-04:00
+  - http://dx.doi.org/10.5061/dryad.f8539/4/bitstream
+  - http://dx.doi.org/10.5061/dryad.f8539/4?ver=2014-07-02T12:29:07.681-04:00
   - http://dx.doi.org/10.5061/dryad.ff71n/3/bitstream
   - http://dx.doi.org/10.5061/dryad.ff71n/3?ver=2014-06-24T16:13:16.031-04:00
   - http://dx.doi.org/10.5061/dryad.ff71n/4/bitstream
@@ -2945,6 +3034,10 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.jn800/1?ver=2014-06-23T10:48:52.853-04:00
   - http://dx.doi.org/10.5061/dryad.jn800?format=d1rem&amp;ver=2014-06-23T10:48:49.869-04:00
   - http://dx.doi.org/10.5061/dryad.jn800?ver=2014-06-23T10:48:49.869-04:00
+  - http://dx.doi.org/10.5061/dryad.k0080/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.k0080/1?ver=2014-07-02T13:45:49.195-04:00
+  - http://dx.doi.org/10.5061/dryad.k0080/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.k0080/2?ver=2014-07-02T13:46:40.827-04:00
   - http://dx.doi.org/10.5061/dryad.k0080?format=d1rem&amp;ver=2014-06-19T22:43:58.466-04:00
   - http://dx.doi.org/10.5061/dryad.k0080?ver=2014-06-19T22:43:58.466-04:00
   - http://dx.doi.org/10.5061/dryad.k77nh/3/bitstream
@@ -3056,6 +3149,12 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.ns624?ver=2014-06-30T14:20:17.617-04:00
   - http://dx.doi.org/10.5061/dryad.nt13m?format=d1rem&amp;ver=2014-06-24T10:57:26.434-04:00
   - http://dx.doi.org/10.5061/dryad.nt13m?ver=2014-06-24T10:57:26.434-04:00
+  - http://dx.doi.org/10.5061/dryad.p63jh/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.p63jh/1?ver=2014-07-02T12:40:18.997-04:00
+  - http://dx.doi.org/10.5061/dryad.p63jh/2/bitstream
+  - http://dx.doi.org/10.5061/dryad.p63jh/2?ver=2014-07-02T12:40:58.901-04:00
+  - http://dx.doi.org/10.5061/dryad.p63jh/3/bitstream
+  - http://dx.doi.org/10.5061/dryad.p63jh/3?ver=2014-07-02T12:41:39.206-04:00
   - http://dx.doi.org/10.5061/dryad.p7d7c/1/bitstream
   - http://dx.doi.org/10.5061/dryad.p7d7c/1?ver=2014-07-01T13:22:54.154-04:00
   - http://dx.doi.org/10.5061/dryad.p7d7c?format=d1rem&amp;ver=2014-07-01T13:22:50.510-04:00
@@ -3197,6 +3296,8 @@ PIDs in ORC not in UNM:
   - http://dx.doi.org/10.5061/dryad.s0d20/1?ver=2014-06-17T13:19:04.132-04:00
   - http://dx.doi.org/10.5061/dryad.s0d20?format=d1rem&amp;ver=2014-06-17T13:19:00.623-04:00
   - http://dx.doi.org/10.5061/dryad.s0d20?ver=2014-06-17T13:19:00.623-04:00
+  - http://dx.doi.org/10.5061/dryad.s3720/1/bitstream
+  - http://dx.doi.org/10.5061/dryad.s3720/1?ver=2014-07-02T14:05:07.986-04:00
   - http://dx.doi.org/10.5061/dryad.s584c/1/bitstream
   - http://dx.doi.org/10.5061/dryad.s584c/1?ver=2014-06-25T14:38:06.093-04:00
   - http://dx.doi.org/10.5061/dryad.s584c/2/bitstream
@@ -3939,7 +4040,19 @@ PIDs in ORC not in UNM:
   - knb-lter-bnz.97.19
   - knb-lter-bnz.98.19
   - knb-lter-bnz.99.19
+  - knb-lter-fce.1050.10
+  - knb-lter-fce.1051.10
+  - knb-lter-fce.1052.8
+  - knb-lter-fce.1053.8
+  - knb-lter-fce.1055.5
+  - knb-lter-fce.1069.6
+  - knb-lter-fce.1072.6
+  - knb-lter-fce.1073.6
+  - knb-lter-fce.1107.4
+  - knb-lter-fce.1110.5
+  - knb-lter-fce.1111.4
   - knb-lter-fce.1127.3
+  - knb-lter-fce.1134.4
   - knb-lter-fce.1191.1
   - knb-lter-gce.100.31
   - knb-lter-gce.101.42
@@ -4097,14 +4210,19 @@ PIDs in ORC not in UNM:
   - knb-lter-hfr.41.17
   - knb-lter-hfr.45.21
   - knb-lter-hfr.91.13
+  - knb-lter-mcr.5009.1
   - knb-lter-pie.232.2
   - knb-lter-pie.344.3
   - knb-lter-pie.345.2
   - knb-lter-pie.93.5
+  - knb-lter-vcr.117.15
+  - knb-lter-vcr.118.15
   - knb-lter-vcr.174.17
   - knb-lter-vcr.206.13
   - knb-lter-vcr.25.30
+  - knb-lter-vcr.60.17
   - knb-lter-vcr.61.22
+  - knb-lter-vcr.68.15
   - knb-lter-vcr.71.21
   - lusteve.95.4
   - lusteve.98.1
