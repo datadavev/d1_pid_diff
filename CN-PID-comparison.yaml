@@ -1,5 +1,5 @@
-tstamp: 2014-08-08T05:15:17Z
-n_UCSB: 480033
+tstamp: 2014-08-08T16:57:17Z
+n_UCSB: 480038
 n_ORC: 478075
 n_UNM: 475499
 PIDs in UCSB not in UNM:
@@ -39,12 +39,15 @@ PIDs in UCSB not in UNM:
   - Blandy.118.1
   - Blandy.119.1
   - Blandy.119.6
+  - Blandy.120.1
   - Blandy.122.1
   - Blandy.127.1
   - Blandy.128.1
   - Blandy.129.1
   - Blandy.130.1
   - Blandy.131.1
+  - Blandy.132.1
+  - Blandy.133.1
   - Blandy.83.5
   - c7ab1421-046d-4616-adec-93dc9bfae5bf
   - CD05_FUEL_LOADS_1233.zip
@@ -4438,6 +4441,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-mcr.2006.1
   - knb-lter-mcr.20.15
   - knb-lter-mcr.5009.1
+  - knb-lter-ntl.11.10
   - knb-lter-ntl.11.9
   - knb-lter-ntl.87.10
   - knb-lter-pie.232.2
@@ -4477,6 +4481,7 @@ PIDs in UCSB not in UNM:
   - resourceMap_Baum.3.3
   - resourceMap_Blandy.119.1
   - resourceMap_Blandy.119.6
+  - resourceMap_Blandy.133.1
   - resourceMap_Blandy.83.5
   - resourceMap_dd388.46.22
   - resourceMap_dd388.46.26
@@ -7149,12 +7154,15 @@ PIDs in UCSB not in ORC:
   - Blandy.118.1
   - Blandy.119.1
   - Blandy.119.6
+  - Blandy.120.1
   - Blandy.122.1
   - Blandy.127.1
   - Blandy.128.1
   - Blandy.129.1
   - Blandy.130.1
   - Blandy.131.1
+  - Blandy.132.1
+  - Blandy.133.1
   - Blandy.83.5
   - CD05_FUEL_LOADS_1233.zip
   - CD05_REE_FUEL_STICK_MOISTURE_1232.zip
@@ -9030,6 +9038,7 @@ PIDs in UCSB not in ORC:
   - knb-lter-mcm.60.9
   - knb-lter-mcr.2006.1
   - knb-lter-mcr.20.15
+  - knb-lter-ntl.11.10
   - knb-lter-ntl.11.9
   - knb-lter-ntl.87.10
   - knb-lter-vcr.177.18
@@ -9053,6 +9062,7 @@ PIDs in UCSB not in ORC:
   - resourceMap_Baum.3.3
   - resourceMap_Blandy.119.1
   - resourceMap_Blandy.119.6
+  - resourceMap_Blandy.133.1
   - resourceMap_Blandy.83.5
   - resourceMap_dd388.46.22
   - resourceMap_dd388.46.26
