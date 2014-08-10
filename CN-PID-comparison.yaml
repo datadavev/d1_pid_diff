@@ -1,5 +1,5 @@
-tstamp: 2014-08-09T05:15:17Z
-n_UCSB: 480166
+tstamp: 2014-08-10T05:15:17Z
+n_UCSB: 480180
 n_ORC: 478075
 n_UNM: 475499
 PIDs in UCSB not in UNM:
@@ -61,11 +61,23 @@ PIDs in UCSB not in UNM:
   - Blandy.169.1
   - Blandy.170.1
   - Blandy.171.1
+  - Blandy.171.5
   - Blandy.172.1
+  - Blandy.172.3
   - Blandy.173.1
+  - Blandy.173.3
   - Blandy.174.1
+  - Blandy.175.14
+  - Blandy.175.15
+  - Blandy.175.16
+  - Blandy.175.17
+  - Blandy.175.18
+  - Blandy.175.22
   - Blandy.176.1
   - Blandy.176.2
+  - Blandy.176.7
+  - Blandy.176.8
+  - Blandy.179.5
   - Blandy.83.5
   - c7ab1421-046d-4616-adec-93dc9bfae5bf
   - CD05_FUEL_LOADS_1233.zip
@@ -4560,6 +4572,7 @@ PIDs in UCSB not in UNM:
   - knb-lter-hfr.91.16
   - knb-lter-mcm.60.10
   - knb-lter-mcm.60.11
+  - knb-lter-mcm.60.12
   - knb-lter-mcm.60.9
   - knb-lter-mcr.2006.1
   - knb-lter-mcr.20.15
@@ -4609,6 +4622,7 @@ PIDs in UCSB not in UNM:
   - resourceMap_Blandy.134.1
   - resourceMap_Blandy.137.2
   - resourceMap_Blandy.169.1
+  - resourceMap_Blandy.175.22
   - resourceMap_Blandy.83.5
   - resourceMap_dd388.46.22
   - resourceMap_dd388.46.26
@@ -7304,11 +7318,23 @@ PIDs in UCSB not in ORC:
   - Blandy.169.1
   - Blandy.170.1
   - Blandy.171.1
+  - Blandy.171.5
   - Blandy.172.1
+  - Blandy.172.3
   - Blandy.173.1
+  - Blandy.173.3
   - Blandy.174.1
+  - Blandy.175.14
+  - Blandy.175.15
+  - Blandy.175.16
+  - Blandy.175.17
+  - Blandy.175.18
+  - Blandy.175.22
   - Blandy.176.1
   - Blandy.176.2
+  - Blandy.176.7
+  - Blandy.176.8
+  - Blandy.179.5
   - Blandy.83.5
   - CD05_FUEL_LOADS_1233.zip
   - CD05_REE_FUEL_STICK_MOISTURE_1232.zip
@@ -9286,6 +9312,7 @@ PIDs in UCSB not in ORC:
   - knb-lter-hfr.91.16
   - knb-lter-mcm.60.10
   - knb-lter-mcm.60.11
+  - knb-lter-mcm.60.12
   - knb-lter-mcm.60.9
   - knb-lter-mcr.2006.1
   - knb-lter-mcr.20.15
@@ -9318,6 +9345,7 @@ PIDs in UCSB not in ORC:
   - resourceMap_Blandy.134.1
   - resourceMap_Blandy.137.2
   - resourceMap_Blandy.169.1
+  - resourceMap_Blandy.175.22
   - resourceMap_Blandy.83.5
   - resourceMap_dd388.46.22
   - resourceMap_dd388.46.26
